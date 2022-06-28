@@ -1,0 +1,3 @@
+# HelloBrowserExtension
+
+This is my first browser extension.  It will be used to learn more about web development and will serve as an learning tool for my next project...
